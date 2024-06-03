@@ -20,9 +20,11 @@ Repositório dedicado a atividade de TDDGAI II, de Pixel Art da Professora Aline
 <h3>Formatos</h3>
 
 <h4>Piskel/Pixil</h4>
-
+<img src="https://github.com/SouzaDuda/PixelArt/blob/main/BonBonTikki.pixil" alt="Pixil">
 
 <h4>PNG</h4>
 
 
 <h4>Gif</h4>
+
+<img src="https://github.com/SouzaDuda/PixelArt/blob/main/pixil-gif-drawing.gif" alt="GIF">
