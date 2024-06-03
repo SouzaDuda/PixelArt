@@ -13,3 +13,15 @@ Repositório dedicado a atividade de TDDGAI II, de Pixel Art da Professora Aline
 <p>Balde de tinta: Muito utilizado para facilitar o processo de pintura, não tendo que pintar pixel por pixel poupando tempo.</p>
 <p>Conta-gotas: Bastante utilizado para pegar de volta a cor que estava sendo utilizada anteriormente, sem ter que ir no gráfico.</p>
 <p>Linha: Não sabemos se esse nome é correto mas vamos chamar assim, descobrimos ela no meio para o final e facilitou muito já que não tinha mais que cuidar pixel por pixel só arrastar, deixar reto e soltar.</p>
+
+<h2>Animação</h2>
+
+<h3>Formatos</h3>
+
+<h4>Piskel/Pixil</h4>
+
+
+<h4>PNG</h4>
+
+
+<h4>Gif</h4>
